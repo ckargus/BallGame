@@ -10,6 +10,7 @@
     <sprite>sprites\sprite_ballBlue</sprite>
     <sprite>sprites\sprite_ballRed</sprite>
     <sprite>sprites\sprite_cannon</sprite>
+    <sprite>sprites\sprite_wall</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
