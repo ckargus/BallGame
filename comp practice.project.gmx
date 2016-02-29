@@ -11,12 +11,15 @@
     <sprite>sprites\sprite_ballRed</sprite>
     <sprite>sprites\sprite_cannon</sprite>
     <sprite>sprites\sprite_wall</sprite>
+    <sprite>sprites\sprite_wallEmmiter</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\object_ball</object>
     <object>objects\object_cannon</object>
+    <object>objects\object_wallEmitter</object>
+    <object>objects\object_wall</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
