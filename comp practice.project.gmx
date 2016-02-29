@@ -14,6 +14,7 @@
     <sprite>sprites\sprite_cannon</sprite>
     <sprite>sprites\sprite_wall</sprite>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <sprite>sprites\sprite_wallEmmiter</sprite>
 =======
     <sprite>sprites\sprite_bar_blue</sprite>
@@ -21,6 +22,8 @@
     <sprite>sprites\sprite_bar_yellow</sprite>
     <sprite>sprites\sprite_bar_pink</sprite>
 >>>>>>> origin/master
+=======
+>>>>>>> parent of 3528d21... lots of fuckkkin changes
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -28,11 +31,14 @@
     <object>objects\object_ball</object>
     <object>objects\object_cannon</object>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <object>objects\object_wallEmitter</object>
     <object>objects\object_wall</object>
 =======
     <object>objects\object_ranBall</object>
 >>>>>>> origin/master
+=======
+>>>>>>> parent of 3528d21... lots of fuckkkin changes
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
