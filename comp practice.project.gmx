@@ -8,18 +8,31 @@
   <sprites name="sprites">
     <sprite>sprites\sprite_ballStart</sprite>
     <sprite>sprites\sprite_ballBlue</sprite>
+    <sprite>sprites\sprite_ballYellow</sprite>
+    <sprite>sprites\sprite_ballPink</sprite>
     <sprite>sprites\sprite_ballRed</sprite>
     <sprite>sprites\sprite_cannon</sprite>
     <sprite>sprites\sprite_wall</sprite>
+<<<<<<< HEAD
     <sprite>sprites\sprite_wallEmmiter</sprite>
+=======
+    <sprite>sprites\sprite_bar_blue</sprite>
+    <sprite>sprites\sprite_bar_red</sprite>
+    <sprite>sprites\sprite_bar_yellow</sprite>
+    <sprite>sprites\sprite_bar_pink</sprite>
+>>>>>>> origin/master
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\object_ball</object>
     <object>objects\object_cannon</object>
+<<<<<<< HEAD
     <object>objects\object_wallEmitter</object>
     <object>objects\object_wall</object>
+=======
+    <object>objects\object_ranBall</object>
+>>>>>>> origin/master
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
